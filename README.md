@@ -15,7 +15,7 @@ This repository contains public smart contract audit summaries, smart contract c
 
 Founded in 2017, Softstack (formerly Chainsulting) has completed over 1,200 smart contract audits with a **zero-exploit record**. Our clients include:
 
-- TON Foundation  
+- [TON Foundation]  
 - Ripple  
 - BitGo  
 - Pantos  
