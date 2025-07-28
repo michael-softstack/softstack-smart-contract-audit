@@ -129,4 +129,4 @@ Join our Service Partner Program (SPP):
 ---
 
 📖 This article was originally published on our blog:  
-[Smart Contract Audit Methodology Explained]([article link](https://softstack.io/blog/smart-contract-audit-methodology-explained-updated-2025/))
+[Smart Contract Audit Methodology Explained](https://softstack.io/blog/smart-contract-audit-methodology-explained-updated-2025/))
