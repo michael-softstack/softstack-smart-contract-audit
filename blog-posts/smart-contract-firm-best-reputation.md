@@ -1,7 +1,7 @@
 # 🏆 Which Smart Contract Audit Firms Have the Best Reputation? (Updated 2025)
 
 **Published:** July 11, 2025  
-[🔗 View on Softstack.io](https://softstack.io/blog/which-smart-contract-audit-firms-have-the-best-reputation-compared-ranked-2025/)
+[🔗 View on Softstack.io](https://softstack.io/blog/which-smart-contract-audit-firms-have-the-best-reputation-updated-2025/))
 
 ---
 
